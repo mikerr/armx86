@@ -1,0 +1,2 @@
+# from inside x86 chroot
+apt-get install wine 
